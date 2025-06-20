@@ -1,2 +1,3 @@
 # JavaScripts
 ## DOM
+## Functions
