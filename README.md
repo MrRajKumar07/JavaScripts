@@ -1,3 +1,4 @@
 # JavaScripts
 ## DOM
 ## Functions
+## Arrays
