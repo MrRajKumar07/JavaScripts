@@ -2,3 +2,4 @@
 ## DOM
 ## Functions
 ## Arrays
+## Methods
